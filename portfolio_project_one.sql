@@ -294,7 +294,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `full_name`, `designation`, `email_address`, `phone_number`, `gender`, `date_of_birth`, `password`, `profile_photo`, `created_at`) VALUES
-(27, 'Md Sabbir Ahammed', 'admin', 'sabbir@email.com', '01953321402', 'male', '1999-10-09', '25d55ad283aa400af464c76d713c07ad', '11346426981632064416.png', '2021-09-01 21:21:38');
+(27, 'Md Sabbir Ahammed', 'admin', 'admin@email.com', '01953321402', 'male', '1999-10-09', '25d55ad283aa400af464c76d713c07ad', '11346426981632064416.png', '2021-09-01 21:21:38');
 
 --
 -- Indexes for dumped tables

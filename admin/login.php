@@ -65,6 +65,26 @@ require_once "dbc.php";
 
         <button type="submit" class="btn btn-info btn-block">Log In</button>
       </form>
+      
+      <div class="demo my-2">
+        <h5 class="text-center">Demo User Login Details</h5>
+        <div class="table-responsive">
+          <table class="table table-primary">
+            <thead>
+              <tr>
+                <th>Email</th>
+                <th>Password</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>admin@email.com</td>
+                <td>12345678</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
 
       <div class="mg-t-60 tx-center">If you don't have an account don't try login</div>
 
